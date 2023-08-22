@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CharlieDeans
 - 👀 I’m interested in Software Development, Video Games, and Movies/TV
-- 🌱 I’m currently learning Advanced Network Technologies, Applied Human Computer Interaction,
-and Contemporary Issues in Software Development at AUT
+- 🌱 I’m currently learning Advanced Network Technologies, Applied Human Computer Interaction, and Contemporary Issues in Software Development at AUT
 - 💞️ I’m looking to collaborate on aNyTHiNg!!!
 
 <!---
